@@ -24,6 +24,7 @@ Features
 5. Authors can edit and delete articles
 2. People should be able to comment on articles
 3. ...to reply to comments
+4. Authors can moderate comments on their posts
 5. Authors can upload media
 6. Authors can use media in their posts
 
