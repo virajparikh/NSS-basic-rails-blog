@@ -1,7 +1,7 @@
 NSSBasicRailsBlog::Application.routes.draw do
   root to: "posts#index"
   
-  resources :posts, only: [:index, :new, :create], path: 'article'
+  resources :posts, only: [:index, :new, :create]
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
